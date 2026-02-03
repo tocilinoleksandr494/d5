@@ -23,7 +23,7 @@ export const campaign = {
 			this.parent.logout();
 		}
 		this.get();	
-		this.GetFirstAndLastDate();
+		//this.GetFirstAndLastDate();
 	},
 	methods:{	
 		GetFirstAndLastDate:function(){
